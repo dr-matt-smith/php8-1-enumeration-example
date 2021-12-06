@@ -1,0 +1,12 @@
+{
+    "name": "mattsmithdev/learn-php-8",
+    "description": "test application for PHP 8 and codespaces",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mattsmithdev\\":"src"
+        }
+    }
+}
